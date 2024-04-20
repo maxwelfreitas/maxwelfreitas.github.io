@@ -430,13 +430,17 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
   display: block;
   background: none;
   border-radius: 0;
+}
+
+.skills .section-title p {
+  margin-bottom: 16px;
 }
 
 .skills .progress .skill {
@@ -696,8 +700,6 @@ section {
 /*--------------------------------------------------------------
 # Certification
 --------------------------------------------------------------*/
-
-
 
 .certifications .title {
   margin-left: 0px;
