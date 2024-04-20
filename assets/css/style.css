@@ -694,6 +694,60 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Certification
+--------------------------------------------------------------*/
+
+
+
+.certifications .title {
+  margin-left: 0px;
+  font-weight: 600;
+  margin-bottom: 0px;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.certifications h5 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  /* padding: 5px 15px; */
+  display: inline-block;
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+
+.certifications .title p {
+  font-size: 12px;
+  background: #e4edf9;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.certifications .col {
+  padding: 0px
+}
+
+.certifications .col-auto {
+  padding: 5px 10px
+}
+
+.certifications .title a {
+  color: #343a40;
+}
+
+.certifications .title a:hover {
+  color: #149ddd;
+}
+
+.certifications .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
